@@ -4,7 +4,7 @@
 https://www.slideshare.net/ssuser49f8441/python-114923273
 
 ## Terminology
-- **ACF**: Autocorrelation Function（自己相関）**<br>
+- **ACF: Autocorrelation Function（自己相関）**<br>
 How affectied is now data by some old datas.<br>
 ※lag => How many steps was it shifted?
 
