@@ -1,0 +1,4 @@
+pandas
+matplotlib
+numpy
+statsmodels >= 0.8.0
